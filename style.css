@@ -24,16 +24,16 @@ body {
 }
 
 .img_format {
-    height: 6vh;
-    width: 6vw;
+    height: 5vh;
+    width: 5vw;
     align-self: center;
 }
 
 .logo_text {
     align-self: center;
     font-family: Helvetica, Arial, Lucida Grande, sans-serif;
-    font-size: 3em;
-    margin-top: 4vh;
+    font-size: 2em;
+    margin-top: 5vh;
 }
 
 .img_text {
@@ -242,5 +242,16 @@ body {
         background: url(bg2.png);
         background-repeat: no-repeat;
         background-position: center top;
+    }
+    .img_format {
+        height: 6vh;
+        width: 6vw;
+        align-self: center;
+    }
+    .logo_text {
+        align-self: center;
+        font-family: Helvetica, Arial, Lucida Grande, sans-serif;
+        font-size: 3em;
+        margin-top: 4vh;
     }
 }
