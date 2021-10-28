@@ -199,14 +199,14 @@ body {
     color: #008060;
 }
 
-@media (max-width: 2000px) {
+@media (max-width: 930px) {
     .grid_section {
         grid-template-columns: 1fr;
         grid-template-rows: 1fr 1fr 1fr;
         row-gap: 30px;
     }
     .grid_element {
-        max-width: 300px;
+        min-width: 70%;
         text-align: center;
     }
     .button_format {
