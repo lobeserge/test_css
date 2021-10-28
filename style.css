@@ -42,13 +42,13 @@ body {
 }
 
 .main_text {
-    font-size: 3.75em;
+    font-size: 4vh;
     font-weight: 700;
     margin-bottom: 0.3em;
 }
 
 .minor_text {
-    font-size: 1.875em;
+    font-size: 1.6vh;
     margin-top: 0.3em;
 }
 
@@ -173,7 +173,7 @@ body {
 .hPT {
     margin-top: 100px;
     color: #004c3f;
-    font-weight: 500;
+    font-weight: 700;
 }
 
 .hPB {
@@ -205,7 +205,7 @@ body {
         row-gap: 30px;
     }
     .grid_element {
-        min-width: 70%;
+        min-width: 90%;
         text-align: justify;
     }
     .button_format {
@@ -213,7 +213,7 @@ body {
     }
     .zI {
         z-index: 999;
-        color: #004c3f;
+        color: white;
     }
     .fBTN {
         height: 5rem;
@@ -236,5 +236,10 @@ body {
         color: #212326;
         font-family: Helvetica, Arial, Lucida Grande, sans-serif;
         font-size: 2vh;
+    }
+    .upper_segment_flex {
+        background: url(bg2.png);
+        background-repeat: no-repeat;
+        background-position: center top;
     }
 }
