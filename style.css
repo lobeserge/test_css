@@ -69,12 +69,12 @@ body {
     height: 3rem;
     width: 30rem;
     margin: 0 auto;
+    font-size: 1rem;
 }
 
 .text_format:focus {
     outline: none;
     color: #212326;
-    font-size: 1rem;
 }
 
 .button_format {
