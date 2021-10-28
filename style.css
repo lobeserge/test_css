@@ -199,7 +199,7 @@ body {
     color: #008060;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 600px) {
     .grid_section {
         grid-template-columns: 1fr;
         grid-template-rows: 1fr 1fr 1fr;
