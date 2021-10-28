@@ -125,7 +125,6 @@ body {
 }
 
 .fH4 {
-    font-size: 1em;
     font-weight: 600;
     margin-top: 3em;
     color: #212326;
@@ -133,7 +132,6 @@ body {
 }
 
 .fP {
-    font-size: 0.94em;
     font-weight: 400;
     color: #212326;
     font-family: Helvetica, Arial, Lucida Grande, sans-serif;
@@ -215,5 +213,14 @@ body {
     .zI {
         z-index: 999;
         color: #004c3f;
+    }
+    .fBTN {
+        height: 5rem;
+        width: 20rem;
+        color: white;
+        font-weight: 900;
+        background-color: #008060;
+        border-radius: 5px;
+        border: none;
     }
 }
