@@ -24,15 +24,15 @@ body {
 }
 
 .img_format {
-    height: 4vh;
-    width: 4vw;
+    height: 10vh;
+    width: 10vw;
     align-self: center;
 }
 
 .logo_text {
     align-self: center;
     font-family: Helvetica, Arial, Lucida Grande, sans-serif;
-    font-size: 2em;
+    font-size: 4em;
 }
 
 .img_text {
