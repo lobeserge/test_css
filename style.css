@@ -24,15 +24,15 @@ body {
 }
 
 .img_format {
-    height: 10vh;
-    width: 10vw;
+    height: 4vh;
+    width: 4vw;
     align-self: center;
 }
 
 .logo_text {
     align-self: center;
     font-family: Helvetica, Arial, Lucida Grande, sans-serif;
-    font-size: 4em;
+    font-size: 2em;
 }
 
 .img_text {
@@ -199,7 +199,7 @@ body {
     color: #008060;
 }
 
-@media only screen and (min-width: 600px) {
+@media only screen and (max-width: 600px) {
     .grid_section {
         grid-template-columns: 1fr;
         grid-template-rows: 1fr 1fr 1fr;
